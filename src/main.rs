@@ -1,4 +1,5 @@
 fn main() {
     let a = 10;
-    println!("a : {}", a);
+    let b = 20;
+    println!("a : {}, b : {}", a, b);
 }
